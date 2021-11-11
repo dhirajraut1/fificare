@@ -28,7 +28,7 @@ header{
 main{
     background-color: #F9F9F9;
     border-top-right-radius: 30px;
-    border-top-left-radius: 30px;
+    border-radius: 30px;
     /* min-height: 100px; */
     padding-top: 10px;
     padding-bottom: 10px;
